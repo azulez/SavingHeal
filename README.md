@@ -9,6 +9,10 @@ This was last tested in the last phase of Classic pre-tbc.  Contributors welcome
 
 Note: only ONE person should have this active per raid, otherwise you'll get multiple anounces.  That is why the default mode has been changed to 'off' and it must be specifically enabled using the slash commands below.
 
+# Installation
+
+Drop the SavingHeal folder into your AddOns folder.
+
 
 # Commands
 
