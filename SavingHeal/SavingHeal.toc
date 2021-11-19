@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Saving Heal
+## Notes: Anounces when a heal has saved someone's life.
+## Author: Azulez
+## Version: classic-v5.0.13
+
+
+# Core addon
+Core.lua
