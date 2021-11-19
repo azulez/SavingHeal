@@ -2,7 +2,7 @@
 
 local L_ANY = 0
 local L_DEBUG = 1
-local MODE = "raid"
+local MODE = "off"
 
 -- Saving Heal Internals
 local announce_delay = 5  -- Target must survive this long to announce
