@@ -19,3 +19,7 @@ Usage: /sh or /savingheal
 | /sh party | SH output in party |
 | /sh say | SH output in say |
 | /sh report | Output a small report on current stats |
+
+# Future Development
+Nothing planned currently.  If you want to contribute or make fixes, by all means send a request to get added to the project.
+If you want to use this code/concept in your own mod, a shout out would be appreciated. :]
